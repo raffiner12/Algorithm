@@ -22,5 +22,11 @@ public class a_1차원배열입력연습 {
 			System.out.print(arr[i] + " ");
 		}
 		
+		/* 입력
+		 * 5
+		   3 2 1 5 7
+		   출력
+		   7 5 1 2 3 
+		 */
 	}
 }
